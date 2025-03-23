@@ -1,5 +1,7 @@
 # Bitcoin Transactions - Legacy and SegWit
 
+## Team Name: **Trinity**
+
 ## Team Members
 
 - Devesh Kumar - 230001024
